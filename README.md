@@ -2,9 +2,12 @@
 
 **V2.2, updated April 16, 2020**
 
-Dr. Jeffrey S. Kieft, Virologist, Professor and Vice Chair, Biochemistry and Molecular Genetics, University of Colorado, Anschutz Medical Campus
+## Authors
+### Dr. Jeffrey S. Kieft
+Virologist, Professor and Vice Chair, Biochemistry and Molecular Genetics, University of Colorado, Anschutz Medical Campus
 
-Dr. Olivia S. Rissland, Molecular Biologist, Assistant Professor, 
+### Dr. Olivia S. Rissland
+Molecular Biologist, Assistant Professor, 
 Biochemistry and Molecular Genetics, University of Colorado, Anschutz Medical Campus
 
 Contents:
